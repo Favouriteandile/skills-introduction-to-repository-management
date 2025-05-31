@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Favouriteandile
+/src/backend/database.py      @Favouriteandile
+/src/backend/routers/auth.py  @Favouriteandile
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Favouriteandile
